@@ -6,9 +6,12 @@ Project ini merupakan tugas praktikum Laravel tentang fitur CRUD, validasi lanju
   
 ### Tugas 1 Validasi Rules
   ![validasi](Tugas1.png)
+  
   ![validasi](Tugas1.2.png)
 
 ### Tugas 2 Bulk Delete
   ![Delete](Tugas2.png)
+  
   ![Delete](Tugas2.2.png)
+  
   ![Delete](Tugas2.3.png)
