@@ -4,12 +4,13 @@ Project ini merupakan tugas praktikum Laravel tentang fitur CRUD, validasi lanju
 - Nama: Najwa Armia Zahra
 - NIM: 60324002
   
-### Tugas 1 Validasi Rules
+## Tugas 1 Validasi Rules
   ![validasi](Tugas1.png)
   
   ![validasi](Tugas1.2.png)
 
-### Tugas 2 Bulk Delete
+
+## Tugas 2 Bulk Delete
   ![Delete](Tugas2.png)
   
   ![Delete](Tugas2.2.png)
