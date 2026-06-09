@@ -16,3 +16,10 @@ Project ini merupakan tugas praktikum Laravel tentang fitur CRUD, validasi lanju
   ![Delete](Tugas2.2.png)
   
   ![Delete](Tugas2.3.png)
+
+## Tugas 3 CSV
+  ![CSV](Tugas3.png)
+  
+  ![CSV](Tugas3.2.png)
+  
+  ![CSV](Tugas3.3.png)
